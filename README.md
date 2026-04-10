@@ -1,0 +1,2 @@
+# RENASCENT_Q_THEORY_V5_5_RIEMANN_HYPOTHESIS_AS-ANALYTICAL_NECESSITY
+Official repo for the Federico Maya Eternity Theorem. This paper establishes the analytical necessity of the Riemann Hypothesis via the Fundamental Force (F  fund ​  ) in an 11D spacetime net. Includes v3.10 ZN-11 simulation data (5B zeros) demonstrating "Dual Sealing" and RG flow collapse toward the critical manifold. Sovereign Physics.
